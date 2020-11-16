@@ -11,6 +11,7 @@ class Queue {
 		this._length = 0;
 		this._headIndex = 0;
 	}
+
 	/*
 	* Enqueues a new value at the end of the queue
 	* @param {*} value the value to enqueue
